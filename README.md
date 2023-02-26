@@ -6,7 +6,7 @@ Unity Machine Learning Agents (ML-Agents) is an open source Unity plug-in that a
  
 In this environment, a double-jointed arm moves against a target. The target turns around the arm. If the arm contacts the green sphere, it is rewarded 0.1 per step. The agent's goal is to contact the target sphere in as many steps as possible. The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocity. The action is a vector of 4 numbers corresponding to the torques applied to the two joints. The elements of the action vector must be numbers between -1 and 1.
 
-There are two options, one with one agent and the other with 20 agents. I chose the one with 20 agents. The task is episodic, and the goal is to have an average score of 30 or higher over 100 consecutive episodes.
+There are two options, one with one agent and the other with 20 agents. I chose the one with 20 agents. The task is episodic, and the goal is to have an average score of 30 or higher (over 100 consecutive episodes, and over all agents).
 
 
 # Requirement
