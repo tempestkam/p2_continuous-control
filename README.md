@@ -1,4 +1,4 @@
-[demo]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
+![environment](https://user-images.githubusercontent.com/4408363/221390431-53b268e3-0907-49a6-ba12-5599a9491c7b.gif)
 
 # Project 2: Continuous Control
 Continuous Control is a project within the deep reinforcement learning that is udacity nanodegree.
